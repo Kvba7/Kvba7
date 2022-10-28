@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jacob from Poland, i'm making 3D graphics, with programming i cant help you because this is basic programming knowledge + no time.
+- 👀 I’m interested in Blender, Python
+- 🌱 I’m currently learning Roblox Programming
+- 💞️ I dont looking to collaborate 
